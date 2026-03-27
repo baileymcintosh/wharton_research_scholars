@@ -1,0 +1,461 @@
+[
+  {
+    "category": "costly_information",
+    "title": "On the Impossibility of Informationally Efficient Markets",
+    "year": 1980,
+    "authors": [
+      "Sanford J. Grossman",
+      "Joseph E. Stiglitz"
+    ],
+    "doi": "https://doi.org/10.7916/d8765r99",
+    "openalex_id": "https://openalex.org/W1499550068",
+    "cited_by_count": 5332,
+    "abstract": "If competitive equilibrium is defined as a situation in which prices are such that all arbitrage profits are eliminated, is it possible that a competitive economy always be in equilibrium? Clearly not, for then those who arbitrage make no (private) return from their (privately) costly activity. Hence the assumptions that all markets, including that for information, are always in equilibrium and always perfectly arbitraged are inconsistent when arbitrage is costly. We propose here a model in which there is an equilibrium degree of disequilibrium: prices reflect the information of informed individuals (arbitrageurs) but only partially, so that those who expend resources to obtain information do receive compensation. How informative the price system is depends on the number of individuals who are informed; but the number of individuals who are informed is itself an endogenous variable in the model. The model is the simplest one in which prices perform a well-articulated role in conveying information from the informed to the uninformed. When informed individuals observe information that the return to a security is going to be high, they bid its price up, and conversely when they observe information that the return is going to be low. Thus the price system makes publicly available the information obtained by informed individuals to the uniformed. In general, however, it does this imperfectly; this is perhaps lucky, for were it to do it perfectly, an equilibrium would not exist. In the introduction, we shall discuss the general methodology and present some con-",
+    "preferred_pdf_url": "https://academiccommons.columbia.edu/doi/10.7916/D8ZP4H27/download",
+    "open_access_url": null,
+    "landing_page_url": "https://econpapers.repec.org/RePEc:cla:levarc:1908",
+    "stored_pdf": "papers\\costly_information\\1980_grossman_stiglitz_impossibility_of_informationally_efficient_markets.pdf",
+    "download_status": "downloaded"
+  },
+  {
+    "category": "costly_information",
+    "title": "Information Markets and the Comovement of Asset Prices",
+    "year": 2006,
+    "authors": [
+      "Laura Veldkamp"
+    ],
+    "doi": "https://doi.org/10.1111/j.1467-937x.2006.00397.x",
+    "openalex_id": "https://openalex.org/W3122323226",
+    "cited_by_count": 416,
+    "abstract": "Traditional asset pricing models predict that covariance between prices of different assets should be lower than what we observe in the data. This paper introduces markets for information that generate high price covariance within a rational expectations framework. When information is costly, rational investors only buy information about a subset of the assets. Because information production has high fixed costs, competitive producers charge more for low-demand information than for high-demand information. The low price of high-demand information makes investors want to purchase the same information that others are purchasing. When investors price assets using a common subset of information, news about one asset affects the other assets' prices; asset prices comove. The cross-sectional and time-series properties of comovement are consistent with this explanation. Copyright 2006, Wiley-Blackwell.",
+    "preferred_pdf_url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/lveldkamp/papers/comovement.pdf",
+    "open_access_url": null,
+    "landing_page_url": "https://doi.org/10.1111/j.1467-937x.2006.00397.x",
+    "stored_pdf": "papers\\costly_information\\2006_veldkamp_information_markets_and_comovement_of_asset_prices.pdf",
+    "download_status": "downloaded"
+  },
+  {
+    "category": "costly_information",
+    "title": "Information acquisition and mutual funds",
+    "year": 2009,
+    "authors": [
+      "Diego Garcı́a",
+      "Joel M. Vanden"
+    ],
+    "doi": "https://doi.org/10.1016/j.jet.2009.03.002",
+    "openalex_id": "https://openalex.org/W2138167054",
+    "cited_by_count": 88,
+    "abstract": "",
+    "preferred_pdf_url": "https://leeds-faculty.colorado.edu/garcia/paper22v14.pdf",
+    "open_access_url": null,
+    "landing_page_url": "https://doi.org/10.1016/j.jet.2009.03.002",
+    "stored_pdf": "papers\\costly_information\\2009_garcia_vanden_information_acquisition_and_mutual_funds.pdf",
+    "download_status": "downloaded"
+  },
+  {
+    "category": "costly_information",
+    "title": "Information Immobility and the Home Bias Puzzle",
+    "year": 2009,
+    "authors": [
+      "Stijn Van Nieuwerburgh",
+      "Laura Veldkamp"
+    ],
+    "doi": "https://doi.org/10.1111/j.1540-6261.2009.01462.x",
+    "openalex_id": "https://openalex.org/W3123503769",
+    "cited_by_count": 891,
+    "abstract": "ABSTRACT Many argue that home bias arises because home investors can predict home asset payoffs more accurately than foreigners can. But why does global information access not eliminate this asymmetry? We model investors, endowed with a small home information advantage, who choose what information to learn before they invest. Surprisingly, even when home investors can learn what foreigners know, they choose not to: Investors profit more from knowing information others do not know. Learning amplifies information asymmetry. The model matches patterns of local and industry bias, foreign investments, portfolio outperformance, and asset prices. Finally, we propose new avenues for empirical research.",
+    "preferred_pdf_url": "https://business.columbia.edu/sites/default/files-efs/citation_file_upload/Van_Nieuwerburgh_Information_Immobility.pdf",
+    "open_access_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1540-6261.2009.01462.x",
+    "landing_page_url": "https://doi.org/10.1111/j.1540-6261.2009.01462.x",
+    "stored_pdf": "papers\\costly_information\\2009_van_nieuwerburgh_veldkamp_information_immobility_and_home_bias.pdf",
+    "download_status": "downloaded"
+  },
+  {
+    "category": "costly_information",
+    "title": "Information tradeoffs in dynamic financial markets",
+    "year": 2016,
+    "authors": [
+      "Efstathios Avdis"
+    ],
+    "doi": "https://doi.org/10.1016/j.jfineco.2015.11.005",
+    "openalex_id": "https://openalex.org/W3125239338",
+    "cited_by_count": 27,
+    "abstract": "",
+    "preferred_pdf_url": "https://financetheory.org/public/storage/working_paper/00013-00.pdf",
+    "open_access_url": null,
+    "landing_page_url": "https://doi.org/10.1016/j.jfineco.2015.11.005",
+    "stored_pdf": "",
+    "download_status": "404 Client Error: Not Found for url: https://www.financetheory.org/public/storage/working_paper/00013-00.pdf"
+  },
+  {
+    "category": "costly_information",
+    "title": "Are there too many safe securities? Securitization and the incentives for information production",
+    "year": 2013,
+    "authors": [
+      "Samuel Hanson",
+      "Adi Sunderam"
+    ],
+    "doi": "https://doi.org/10.1016/j.jfineco.2013.02.005",
+    "openalex_id": "https://openalex.org/W2158903759",
+    "cited_by_count": 70,
+    "abstract": "",
+    "preferred_pdf_url": "http://nrs.harvard.edu/urn-3:HUL.InstRepos:10578869",
+    "open_access_url": "http://nrs.harvard.edu/urn-3:HUL.InstRepos:10578869",
+    "landing_page_url": "https://doi.org/10.1016/j.jfineco.2013.02.005",
+    "stored_pdf": "",
+    "download_status": "not a pdf response (text/html; charset=utf-8)"
+  },
+  {
+    "category": "value_of_information",
+    "title": "Estimating the Value of Information",
+    "year": 2018,
+    "authors": [
+      "Ohad Kadan",
+      "Asaf Manela"
+    ],
+    "doi": "https://doi.org/10.1093/rfs/hhy087",
+    "openalex_id": "https://openalex.org/W3122408793",
+    "cited_by_count": 26,
+    "abstract": "We derive a general expression for the value of information to a price-taking investor in a dynamic environment and provide a framework for its estimation. We study the value of both private and public information and break it into its instrumental and psychic parts. To illustrate, we estimate and rank the values of leading macroeconomic indicators (GDP, employment, etc.). Using variations in option prices, we find that consumer-investors with conventional preference parameters would pay 3 to 5 bps of their wealth for a one-time private peek into these indicators. Such signals provide substantial instrumental value but a minor psychic value.Received August 29, 2016; editorial decision June 6, 2018 by Editor Itay Goldstein. Authors have furnished an Internet Appendix, which is available on the Oxford University Press Web site next to the link to the final published paper online.",
+    "preferred_pdf_url": null,
+    "open_access_url": null,
+    "landing_page_url": "https://doi.org/10.1093/rfs/hhy087",
+    "stored_pdf": "",
+    "download_status": "no url provided"
+  },
+  {
+    "category": "prediction_asset_pricing",
+    "title": "Digesting Anomalies: An Investment Approach",
+    "year": 2015,
+    "authors": [
+      "Kewei Hou",
+      "Xue Chen",
+      "Lu Zhang"
+    ],
+    "doi": "https://doi.org/10.2139/ssrn.2152674",
+    "openalex_id": "https://openalex.org/W2598127781",
+    "cited_by_count": 158,
+    "abstract": "",
+    "preferred_pdf_url": "https://www.nber.org/system/files/working_papers/w18435/w18435.pdf",
+    "open_access_url": "https://doi.org/10.2139/ssrn.2152674",
+    "landing_page_url": "https://doi.org/10.2139/ssrn.2152674",
+    "stored_pdf": "papers\\prediction_asset_pricing\\2015_hou_xue_zhang_digesting_anomalies.pdf",
+    "download_status": "downloaded"
+  },
+  {
+    "category": "prediction_asset_pricing",
+    "title": "Empirical Asset Pricing via Machine Learning",
+    "year": 2020,
+    "authors": [
+      "Shihao Gu",
+      "Bryan Kelly",
+      "Dacheng Xiu"
+    ],
+    "doi": "https://doi.org/10.1093/rfs/hhaa009",
+    "openalex_id": "https://openalex.org/W4205539948",
+    "cited_by_count": 2030,
+    "abstract": "Abstract We perform a comparative analysis of machine learning methods for the canonical problem of empirical asset pricing: measuring asset risk premiums. We demonstrate large economic gains to investors using machine learning forecasts, in some cases doubling the performance of leading regression-based strategies from the literature. We identify the best-performing methods (trees and neural networks) and trace their predictive gains to allowing nonlinear predictor interactions missed by other methods. All methods agree on the same set of dominant predictive signals, a set that includes variations on momentum, liquidity, and volatility. Authors have furnished an Internet Appendix, which is available on the Oxford University Press Web site next to the link to the final published paper online.",
+    "preferred_pdf_url": "https://www.nber.org/system/files/working_papers/w25398/w25398.pdf",
+    "open_access_url": "https://academic.oup.com/rfs/article-pdf/33/5/2223/33209812/hhaa009.pdf",
+    "landing_page_url": "https://doi.org/10.1093/rfs/hhaa009",
+    "stored_pdf": "papers\\prediction_asset_pricing\\2020_gu_kelly_xiu_empirical_asset_pricing_via_machine_learning.pdf",
+    "download_status": "downloaded"
+  },
+  {
+    "category": "prediction_asset_pricing",
+    "title": "The Characteristics that Provide Independent Information about Average U.S. Monthly Stock Returns",
+    "year": 2017,
+    "authors": [
+      "Jeremiah Green",
+      "John R. M. Hand",
+      "Frank Zhang"
+    ],
+    "doi": "https://doi.org/10.1093/rfs/hhx019",
+    "openalex_id": "https://openalex.org/W3121274430",
+    "cited_by_count": 630,
+    "abstract": "We take up Cochrane’s (2011) challenge to identify the firm characteristics that provide independent information about average U.S. monthly stock returns by simultaneously including 94 characteristics in Fama-MacBeth regressions that avoid overweighting microcaps and adjust for data-snooping bias. We find that while 12 characteristics are reliably independent determinants in non-microcap stocks from 1980 to 2014 as a whole, return predictability sharply fell in 2003 such that just two characteristics have been independent determinants since then. Outside of microcaps, the hedge returns to exploiting characteristics-based predictability also have been insignificantly different from zero since 2003. Received January 28, 2015; editorial decision November 28, 2016 by Editor Andrew Karolyi.",
+    "preferred_pdf_url": null,
+    "open_access_url": null,
+    "landing_page_url": "https://doi.org/10.1093/rfs/hhx019",
+    "stored_pdf": "",
+    "download_status": "no url provided"
+  },
+  {
+    "category": "alternative_data",
+    "title": "Giving Content to Investor Sentiment: The Role of Media in the Stock Market",
+    "year": 2007,
+    "authors": [
+      "Paul C. Tetlock"
+    ],
+    "doi": "https://doi.org/10.1111/j.1540-6261.2007.01232.x",
+    "openalex_id": "https://openalex.org/W3122944446",
+    "cited_by_count": 4341,
+    "abstract": "ABSTRACT I quantitatively measure the interactions between the media and the stock market using daily content from a popular Wall Street Journal column. I find that high media pessimism predicts downward pressure on market prices followed by a reversion to fundamentals, and unusually high or low pessimism predicts high market trading volume. These and similar results are consistent with theoretical models of noise and liquidity traders, and are inconsistent with theories of media content as a proxy for new information about fundamental asset values, as a proxy for market volatility, or as a sideshow with no relationship to asset markets.",
+    "preferred_pdf_url": "https://business.columbia.edu/sites/default/files-efs/pubfiles/3097/Tetlock_Media_Sentiment_JF.pdf",
+    "open_access_url": null,
+    "landing_page_url": "https://doi.org/10.1111/j.1540-6261.2007.01232.x",
+    "stored_pdf": "papers\\alternative_data\\2007_tetlock_giving_content_to_investor_sentiment.pdf",
+    "download_status": "downloaded"
+  },
+  {
+    "category": "alternative_data",
+    "title": "More Than Words: Quantifying Language to Measure Firms' Fundamentals",
+    "year": 2008,
+    "authors": [
+      "Paul C. Tetlock",
+      "Maytal Saar‐Tsechansky",
+      "Sofus A. Macskassy"
+    ],
+    "doi": "https://doi.org/10.1111/j.1540-6261.2008.01362.x",
+    "openalex_id": "https://openalex.org/W3122563224",
+    "cited_by_count": 2208,
+    "abstract": "ABSTRACT We examine whether a simple quantitative measure of language can be used to predict individual firms' accounting earnings and stock returns. Our three main findings are: (1) the fraction of negative words in firm‐specific news stories forecasts low firm earnings; (2) firms' stock prices briefly underreact to the information embedded in negative words; and (3) the earnings and return predictability from negative words is largest for the stories that focus on fundamentals. Together these findings suggest that linguistic media content captures otherwise hard‐to‐quantify aspects of firms' fundamentals, which investors quickly incorporate into stock prices.",
+    "preferred_pdf_url": "https://business.columbia.edu/sites/default/files-efs/pubfiles/3096/More_Than_Words_tetlock.pdf",
+    "open_access_url": null,
+    "landing_page_url": "https://doi.org/10.1111/j.1540-6261.2008.01362.x",
+    "stored_pdf": "papers\\alternative_data\\2008_tetlock_saar_tsechansky_macskassy_more_than_words.pdf",
+    "download_status": "downloaded"
+  },
+  {
+    "category": "alternative_data",
+    "title": "Big data in finance and the growth of large firms",
+    "year": 2018,
+    "authors": [
+      "Juliane Begenau",
+      "Maryam Farboodi",
+      "Laura Veldkamp"
+    ],
+    "doi": "https://doi.org/10.1016/j.jmoneco.2018.05.013",
+    "openalex_id": "https://openalex.org/W2802161686",
+    "cited_by_count": 318,
+    "abstract": "",
+    "preferred_pdf_url": "https://business.columbia.edu/sites/default/files-efs/citation_file_upload/BFV_BigDataBigFirm.pdf",
+    "open_access_url": null,
+    "landing_page_url": "https://doi.org/10.1016/j.jmoneco.2018.05.013",
+    "stored_pdf": "papers\\alternative_data\\2018_begenau_farboodi_veldkamp_big_data_in_finance.pdf",
+    "download_status": "downloaded"
+  },
+  {
+    "category": "alternative_data",
+    "title": "Valuing Financial Data",
+    "year": 2021,
+    "authors": [
+      "Maryam Farboodi",
+      "Dhruv Singal",
+      "Laura Veldkamp",
+      "Venky Venkateswaran"
+    ],
+    "doi": "https://doi.org/10.3386/w29894",
+    "openalex_id": "https://openalex.org/W4220920591",
+    "cited_by_count": 19,
+    "abstract": "",
+    "preferred_pdf_url": "https://business.columbia.edu/sites/default/files-efs/pubfiles/28402/FSVV_Oct2021.pdf",
+    "open_access_url": "https://doi.org/10.3386/w29894",
+    "landing_page_url": "https://doi.org/10.3386/w29894",
+    "stored_pdf": "papers\\alternative_data\\2021_farboodi_singal_veldkamp_venkateswaran_valuing_financial_data.pdf",
+    "download_status": "downloaded"
+  },
+  {
+    "category": "alternative_data",
+    "title": "Applied AI for finance and accounting: Alternative data and opportunities",
+    "year": 2024,
+    "authors": [
+      "Sean Cao",
+      "Wei Jiang",
+      "Lijun Lei",
+      "Qing Zhou"
+    ],
+    "doi": "https://doi.org/10.1016/j.pacfin.2024.102307",
+    "openalex_id": "https://openalex.org/W4392112450",
+    "cited_by_count": 62,
+    "abstract": "",
+    "preferred_pdf_url": null,
+    "open_access_url": null,
+    "landing_page_url": "https://doi.org/10.1016/j.pacfin.2024.102307",
+    "stored_pdf": "",
+    "download_status": "no url provided"
+  },
+  {
+    "category": "alternative_data",
+    "title": "Alternative data and sentiment analysis: Prospecting non-standard data in machine learning-driven finance",
+    "year": 2022,
+    "authors": [
+      "Kristian Bondo Hansen",
+      "Christian Borch"
+    ],
+    "doi": "https://doi.org/10.1177/20539517211070701",
+    "openalex_id": "https://openalex.org/W4205952458",
+    "cited_by_count": 61,
+    "abstract": "Social media commentary, satellite imagery and GPS data are a part of ‘alternative data’, that is, data that originate outside of the standard repertoire of market data but are considered useful for predicting stock prices, detecting different risk exposures and discovering new price movement indicators. With the availability of sophisticated machine-learning analytics tools, alternative data are gaining traction within the investment management and algorithmic trading industries. Drawing on interviews with people working in investment management and algorithmic trading firms utilizing alternative data, as well as firms providing and sourcing such data, we emphasize social media-based sentiment analytics as one manifestation of how alternative data are deployed for stock price prediction purposes. This demonstrates both how sentiment analytics are developed and subsequently utilized by investment management firms. We argue that ‘alternative data’ are an open-ended placeholder for every data source potentially relevant for investment management purposes and harnessing these disparate data sources requires certain standardization efforts by different market participants. Besides showing how market participants understand and use alternative data, we demonstrate that alternative data often undergo processes of (a) prospecting (i.e. rendering such data amenable to processing with the aid of analytics tools) and (b) assetization (i.e. the transformation of data into tradable assets). We further contend that the widespread embracement of alternative data in investment management and trading encourages a financialization process at the data level which raises new governance issues.",
+    "preferred_pdf_url": "https://journals.sagepub.com/doi/pdf/10.1177/20539517211070701",
+    "open_access_url": "https://journals.sagepub.com/doi/pdf/10.1177/20539517211070701",
+    "landing_page_url": "https://doi.org/10.1177/20539517211070701",
+    "stored_pdf": "",
+    "download_status": "403 Client Error: Forbidden for url: https://journals.sagepub.com/doi/pdf/10.1177/20539517211070701"
+  },
+  {
+    "category": "crowding_alpha_decay",
+    "title": "The Limits of Arbitrage",
+    "year": 1997,
+    "authors": [
+      "Andrei Shleifer",
+      "Robert W. Vishny"
+    ],
+    "doi": "https://doi.org/10.1111/j.1540-6261.1997.tb03807.x",
+    "openalex_id": "https://openalex.org/W2103679355",
+    "cited_by_count": 568,
+    "abstract": "ABSTRACT Textbook arbitrage in financial markets requires no capital and entails no risk. In reality, almost all arbitrage requires capital, and is typically risky. Moreover, professional arbitrage is conducted by a relatively small number of highly specialized investors using other people's capital. Such professional arbitrage has a number of interesting implications for security pricing, including the possibility that arbitrage becomes ineffective in extreme circumstances, when prices diverge far from fundamental values. The model also suggests where anomalies in financial markets are likely to appear, and why arbitrage fails to eliminate them.",
+    "preferred_pdf_url": "https://pages.stern.nyu.edu/~cedmond/phd/Shleifer%20Vishny%20JF%201997.pdf",
+    "open_access_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1540-6261.1997.tb03807.x",
+    "landing_page_url": "https://doi.org/10.1111/j.1540-6261.1997.tb03807.x",
+    "stored_pdf": "",
+    "download_status": "404 Client Error: Not Found for url: https://pages.stern.nyu.edu/~cedmond/phd/Shleifer%20Vishny%20JF%201997.pdf"
+  },
+  {
+    "category": "crowding_alpha_decay",
+    "title": "Mutual Fund Flows and Performance in Rational Markets",
+    "year": 2004,
+    "authors": [
+      "Jonathan Berk",
+      "Richard C. Green"
+    ],
+    "doi": "https://doi.org/10.1086/424739",
+    "openalex_id": "https://openalex.org/W3022326679",
+    "cited_by_count": 2130,
+    "abstract": "We derive a parsimonious rational model of active portfolio management that reproduces many regularities widely regarded as anomalous. Fund flows rationally respond to past performance in the model even though performance is not persistent and investments with active managers do not outperform passive benchmarks on average. The lack of persistence in returns does not imply that differential ability across managers is nonexistent or unrewarded or that gathering information about performance is socially wasteful. The model can quantitatively reproduce many salient features in the data. The flow‐performance relationship is consistent with high average levels of skills and considerable heterogeneity across managers.",
+    "preferred_pdf_url": "https://www.nber.org/system/files/working_papers/w9275/w9275.pdf",
+    "open_access_url": null,
+    "landing_page_url": "https://doi.org/10.1086/424739",
+    "stored_pdf": "papers\\crowding_alpha_decay\\2004_berk_green_mutual_fund_flows_and_performance.pdf",
+    "download_status": "downloaded"
+  },
+  {
+    "category": "crowding_alpha_decay",
+    "title": "Does Fund Size Erode Mutual Fund Performance? The Role of Liquidity and Organization",
+    "year": 2004,
+    "authors": [
+      "Joseph Chen",
+      "Harrison Hong",
+      "Mingxin Huang",
+      "Jeffrey D. Kubik"
+    ],
+    "doi": "https://doi.org/10.1257/0002828043052277",
+    "openalex_id": "https://openalex.org/W3121317163",
+    "cited_by_count": 1363,
+    "abstract": "We investigate the effect of scale on performance in the active money management industry. We first document that fund returns, both before and after fees and expenses, decline with lagged fund size, even after accounting for various performance benchmarks. We then explore a number of potential explanations for this relationship. This association is most pronounced among funds that have to invest in small and illiquid stocks, suggesting that these adverse scale effects are related to liquidity. Controlling for its size, a fund's return does not deteriorate with the size of the family that it belongs to, indicating that scale need not be bad for performance depending on how the fund is organized. Finally, using data on whether funds are solo-managed or team-managed and the composition of fund investments, we explore the idea that scale erodes fund performance because of the interaction of liquidity and organizational diseconomies.",
+    "preferred_pdf_url": "https://www.aeaweb.org/articles/pdf/doi/10.1257/0002828043052277",
+    "open_access_url": null,
+    "landing_page_url": "https://doi.org/10.1257/0002828043052277",
+    "stored_pdf": "",
+    "download_status": "not a pdf response (text/html; charset=utf-8)"
+  },
+  {
+    "category": "crowding_alpha_decay",
+    "title": "Presidential Address: Asset Price Dynamics with Slow-Moving Capital",
+    "year": 2010,
+    "authors": [
+      "Darrell Duffie"
+    ],
+    "doi": "https://doi.org/10.1111/j.1540-6261.2010.01569.x",
+    "openalex_id": "https://openalex.org/W2163369381",
+    "cited_by_count": 873,
+    "abstract": "ABSTRACT I describe asset price dynamics caused by the slow movement of investment capital to trading opportunities. The pattern of price responses to supply or demand shocks typically involves a sharp reaction to the shock and a subsequent and more extended reversal. The amplitude of the immediate price impact and the pattern of the subsequent recovery can reflect institutional impediments to immediate trade, such as search costs for trading counterparties or time to raise capital by intermediaries. I discuss special impediments to capital formation during the recent financial crisis that caused asset price distortions, which subsided afterward. After presenting examples of price reactions to supply shocks in normal market settings, I offer a simple illustrative model of price dynamics associated with slow‐moving capital due to the presence of inattentive investors.",
+    "preferred_pdf_url": null,
+    "open_access_url": null,
+    "landing_page_url": "https://doi.org/10.1111/j.1540-6261.2010.01569.x",
+    "stored_pdf": "",
+    "download_status": "no url provided"
+  },
+  {
+    "category": "crowding_alpha_decay",
+    "title": "Deliberate Limits to Arbitrage",
+    "year": 2012,
+    "authors": [
+      "Igor Makarov",
+      "Guillaume Plantin"
+    ],
+    "doi": "https://doi.org/10.2139/ssrn.2023450",
+    "openalex_id": "https://openalex.org/W1596117378",
+    "cited_by_count": 3,
+    "abstract": "",
+    "preferred_pdf_url": "https://personal.lse.ac.uk/makarov1/index_files/DelibArbLimits.pdf",
+    "open_access_url": "https://doi.org/10.2139/ssrn.2023450",
+    "landing_page_url": "https://doi.org/10.2139/ssrn.2023450",
+    "stored_pdf": "papers\\crowding_alpha_decay\\2012_gromb_vayanos_deliberate_limits_to_arbitrage.pdf",
+    "download_status": "downloaded"
+  },
+  {
+    "category": "crowding_alpha_decay",
+    "title": "Does Academic Research Destroy Stock Return Predictability?",
+    "year": 2016,
+    "authors": [
+      "R. David McLean",
+      "Jeffrey Pontiff"
+    ],
+    "doi": "https://doi.org/10.2469/dig.v46.n6.16",
+    "openalex_id": "https://openalex.org/W2460709367",
+    "cited_by_count": 37,
+    "abstract": "",
+    "preferred_pdf_url": "https://www.fmg.ac.uk/sites/default/files/2020-08/Jeffrey-Pontiff.pdf",
+    "open_access_url": null,
+    "landing_page_url": "https://doi.org/10.2469/dig.v46.n6.16",
+    "stored_pdf": "papers\\crowding_alpha_decay\\2016_mclean_pontiff_research_destroy_stock_return_predictability.pdf",
+    "download_status": "downloaded"
+  },
+  {
+    "category": "crowding_alpha_decay",
+    "title": "Comomentum: Inferring Arbitrage Activity from Return Correlations",
+    "year": 2021,
+    "authors": [
+      "Dong Lou",
+      "Christopher Polk"
+    ],
+    "doi": "https://doi.org/10.1093/rfs/hhab117",
+    "openalex_id": "https://openalex.org/W2735586446",
+    "cited_by_count": 76,
+    "abstract": "Abstract We propose a novel measure of arbitrage activity to examine whether arbitrageurs can have a destabilizing effect on the stock market. We focus on stock price momentum, a classic example of a positive-feedback strategy that our theory predicts can be destabilizing. Our measure, dubbed comomentum, is the high-frequency abnormal return correlation among stocks on which a typical momentum strategy would speculate. When comomentum is low, momentum strategies are stabilizing, reflecting an underreaction phenomenon that arbitrageurs correct. When comomentum is high, the returns on momentum stocks strongly revert, reflecting prior overreaction from crowded momentum trading that pushes prices away from fundamentals. Authors have furnished an Internet Appendix, which is available on the Oxford University Press Web site next to the link to the final published paper online.",
+    "preferred_pdf_url": "https://researchonline.lse.ac.uk/id/eprint/109318/1/Comomentum.pdf",
+    "open_access_url": "https://researchonline.lse.ac.uk/id/eprint/109318/1/Comomentum.pdf",
+    "landing_page_url": "https://doi.org/10.1093/rfs/hhab117",
+    "stored_pdf": "papers\\crowding_alpha_decay\\2021_lou_polk_skouras_comomentum.pdf",
+    "download_status": "downloaded"
+  },
+  {
+    "category": "crowding_alpha_decay",
+    "title": "Crowded Trades and Tail Risk",
+    "year": 2021,
+    "authors": [
+      "Gregory W. Brown",
+      "Philip Howard",
+      "Christian Lundblad"
+    ],
+    "doi": "https://doi.org/10.1093/rfs/hhab107",
+    "openalex_id": "https://openalex.org/W3199499308",
+    "cited_by_count": 25,
+    "abstract": "Abstract Hedge fund positions are an important component of crowded trades. These vehicles are particularly active, take highly concentrated positions, and utilize leverage and short sales. Using a database of hedge fund holdings, we measure the degree of security-level crowdedness. The difference between the average returns on portfolios sorted by high versus low crowdedness portfolios is sizable, and the variation in the realized portfolio returns is distinct from other traditional risk factors. Further, hedge fund exposures to crowdedness are often significant, and they help to explain downside “tail risk,” as funds with higher exposures experience relatively larger drawdowns during periods of industry distress. Authors have furnished an Internet Appendix, which is available on the Oxford University Press Web site next to the link to the final published paper online.",
+    "preferred_pdf_url": "https://uncipc.org/wp-content/uploads/2019/02/CTTR.pdf",
+    "open_access_url": null,
+    "landing_page_url": "https://doi.org/10.1093/rfs/hhab107",
+    "stored_pdf": "papers\\crowding_alpha_decay\\2021_barroso_chaudhury_crowded_trades_and_tail_risk.pdf",
+    "download_status": "downloaded"
+  },
+  {
+    "category": "crowding_alpha_decay",
+    "title": "Is There a Replication Crisis in Finance?",
+    "year": 2023,
+    "authors": [
+      "Theis Ingerslev Jensen",
+      "Bryan Kelly",
+      "Lasse Heje Pedersen"
+    ],
+    "doi": "https://doi.org/10.1111/jofi.13249",
+    "openalex_id": "https://openalex.org/W3128785084",
+    "cited_by_count": 399,
+    "abstract": "ABSTRACT Several papers argue that financial economics faces a replication crisis because the majority of studies cannot be replicated or are the result of multiple testing of too many factors. We develop and estimate a Bayesian model of factor replication that leads to different conclusions. The majority of asset pricing factors (i) can be replicated; (ii) can be clustered into 13 themes, the majority of which are significant parts of the tangency portfolio; (iii) work out‐of‐sample in a new large data set covering 93 countries; and (iv) have evidence that is strengthened (not weakened) by the large number of observed factors.",
+    "preferred_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jofi.13249",
+    "open_access_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jofi.13249",
+    "landing_page_url": "https://doi.org/10.1111/jofi.13249",
+    "stored_pdf": "",
+    "download_status": "403 Client Error: Forbidden for url: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jofi.13249"
+  }
+]
